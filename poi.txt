@@ -1,0 +1,17 @@
+📝 Posting comment to: https://api.github.com/repos/Rahin2001/Cameo-Grat/issues/18/comments
+❌ Error in reviewPullRequest: Failed to post comment: 403 Forbidden - {"message":"Resource not accessible by personal access token","documentation_url":"https://docs.github.com/rest/issues/comments#create-an-issue-comment","status":"403"}
+prisma:query db.runCommand({ ping: 1, })
+prisma:query db.runCommand({ ping: 1, })
+
+📝 Posting comment to: https://api.github.com/repos/Rahin2001/Cameo-Grat/issues/18/comments
+❌ Error in reviewPullRequest: Failed to post comment: 403 Forbidden - {"message":"Resource not accessible by personal access token","documentation_url":"https://docs.github.com/rest/issues/comments#create-an-issue-comment","status":"403"}
+prisma:query db.runCommand({ ping: 1, })
+prisma:query db.runCommand({ ping: 1, })
+
+📨 Event type: pull_request, Repository ID: 691410a82d017071d0f6d87f
+✅ Found 2 connected repository instances! Finding all project members...
+📧 Creating notifications for 2 users
+prisma:query db.runCommand({ ping: 1, })
+🎉 Created 2 PR notifications
+🤖 Triggering AI review for PR: https://github.com/Rahin2001/Cameo-Grat/pull/17
+❌ Error in reviewPullRequest: GEMINI_API_KEY is not defined
